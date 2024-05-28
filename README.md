@@ -1,5 +1,7 @@
 # hoge
 
+※go-gin-xorm-templateリポジトリ。goのAPIサーバのテンプレート。
+
 ## 概要
 
 hogeのGo APIサーバ。
